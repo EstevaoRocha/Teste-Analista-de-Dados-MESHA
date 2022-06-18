@@ -1,8 +1,11 @@
 # Download do Dashboard
-- Linkedin: https://www.linkedin.com/in/estevao-rocha/
 - Arquivo PBIX: https://www.icloud.com/iclouddrive/0fcqs8yzRiAnTswNa9k1U_9Ug#Dashboard_Microdados_Enem_-_Estevao_Gabriel
-- Repo: https://github.com/EstevaoRocha/Teste-Analista-de-Dados-MESHA
 
+- Medidas: https://github.com/EstevaoRocha/Teste-Analista-de-Dados-MESHA/blob/main/Medidas.pdf
+
+- Arquivos Background: https://github.com/EstevaoRocha/Teste-Analista-de-Dados-MESHA/tree/main/Background
+
+- Linkedin: https://www.linkedin.com/in/estevao-rocha/
 
 
 # Teste Analista de Dados
